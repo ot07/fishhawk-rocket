@@ -14,7 +14,7 @@ This project is not only a great way to get started in hobby rocketry, but it al
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - **`/cad/`** – CAD models & renderings of the rocket  
 - **`/simulations/`** – OpenRocket files, RASAero results, CFD/FEA studies  
 - **`/electronics/`** – Arduino/Pi Pico sensor code + wiring diagrams  
