@@ -1,7 +1,8 @@
 # fishhawk-L1rocket
 
-This repository documents my NAR Level 1 Certification Rocket.  
-This project is not only a great way to get started in hobby rocketry, but it also serves as the perfection introduction to aerospace design, especially when you approach the build as a  I case study: modeling, simulating, building, equipping, and analyzing a rocket system.
+This repository documents my NAR Level 1 Certification Rocket.
+
+This project is not only a great way to get started in hobby rocketry, but it also serves as the perfection introduction to aerospace design, especially when you approach the build as a case study: modeling, simulating, building, equipping, and analyzing a rocket system.
 
 ---
 
